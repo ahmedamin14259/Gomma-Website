@@ -1,0 +1,84 @@
+.container2 {
+	width: 1200px;
+}
+.first-color {
+	color: #26924c !important;
+}
+.bg-light {
+    background-color: #e1e3e4!important;
+}
+/* Start navbar */
+.navbar .container .high-text {
+	font-size: 30px;
+}
+.navbar .container .collapse .links .nav-item .nav-link{
+	margin-left: 20px;
+}
+.navbar .container .collapse .links li {
+}
+/* End navbar */
+/* Start pgae */
+.jumbotron-fluid {
+	background: url('../images/background.jpg') fixed no-repeat;
+	background-size: cover;
+}
+.jumbotron-fluid .container .display-4 {
+	font-size: 50px;
+	color: white;
+}
+.jumbotron-fluid .container .lead {
+	font-size: 30px;
+	color: grey;
+}
+/* End pgae */
+/* Start Cards */
+.latested-posts .container .row .card {
+	margin-top: 10px;
+}
+/* End Cards */
+/* start gamma-features */
+.gamma-features {
+	background-color: #0b5e3c;
+}
+.gamma-features .container .row{
+	margin-top: 34px;
+}
+.gamma-features .container .row i {
+	float: right;
+	margin-top: 65px;
+	margin-left: 2rem;
+}
+.gamma-features .container .row .text{
+	margin-top: 34px;
+	margin-bottom: 34px;
+	color: white;
+}
+.gamma-features .container .row .logo {
+    margin-left: 69px;
+    margin-top: 38px;
+}
+.gamma-features .container h1 {
+	color: white;
+	margin-bottom: 10px;
+}
+/* end gamma-features */
+/* Start Footer */
+.footer {
+	color: white;
+	background-color: black;
+	margin-top: 0px;
+	height: 48px;
+}
+.footer .container div{
+	padding: 10px;
+} 
+/* End Footer */
+/* Start UpperBar */
+.upperbar {
+	background-color: #26924c;
+	height: 60px;
+}
+.upperbar h2 {
+	margin-top: 8px;
+}
+/* End UpperBar */
